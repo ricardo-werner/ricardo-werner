@@ -6,7 +6,7 @@
 ## Um pouquinho sobre mim:
 <div style="text-align:justify">
   <p>
-    Sou um homem branco, cabelo loiro, olhos azuis, barba, tenho 53 anos, casado e moro em Florianópolis - Norte. Atualamente estou estudando Full Stack com o Sesi/Senai e LAB365 e me especializando em Back-end com a Oracle + ALura no programa ONE( Oracle Next Eduaction). Também tenho um curso em Python parado, ao qual pretendo recomeçar ao final deste curso. Tenho interesse em Engenharia de Dados e Back-end e ainda analisando qual será a melhor formação para concluir a mudança de carreira. Gosto muito da área financeira.
+    Sou um homem branco, cabelo loiro, olhos azuis, barba, tenho 53 anos, casado e moro em Florianópolis - Norte. Atualamente estou estudando Full Stack com o Sesi/Senai e LAB365 e me especializando em Back-end com a Oracle + Alura no programa ONE (Oracle Next Education). Também tenho um curso em Python parado, ao qual pretendo recomeçar ao final destes cursos. Tenho interesse em Engenharia de Dados e Back-end e ainda analisando qual será a melhor formação para concluir a mudança de carreira. Gosto muito da área financeira.
   </p>
 </div>
 <br>
