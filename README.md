@@ -18,7 +18,7 @@
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg"/>
-  <img align="center" alt="Java" height="50" width="50" src="https://icon-library.com/images/node-js-icon/node-js-icon-11.jpg"/>
+  <img align="center" alt="Java" height="40" width="40" src="https://icon-library.com/images/node-js-icon/node-js-icon-11.jpg"/>
 </div>
 <br>
 
