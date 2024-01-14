@@ -1,15 +1,17 @@
 ### Hi there 👋
-### Olá, sou o Ricardo, um jovem experiênte em fase de transição de carreira! 😇  🤓
-
+### Olá, meu nome é Ricardo, um jovem com experiência profissional em fase de transição de carreira! 😇 🤓 
 <!--
 **ricardo-werner/ricardo-werner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-## Um pouquinho sobre mim:
+### Permita-me compartilhar um pouco sobre quem sou:
 <div style="text-align:justify">
-  <p>
-    Sou um homem branco, cabelo loiro, olhos azuis, barba, tenho 54 anos, casado e moro em Florianópolis - Norte. Atualmente sou formado como Desenvolvedor Full Stack com o LAB365 (Sesi/Senai). Também tenho um curso em Python parado, ao qual pretendo recomeçar em 2024. Tenho interesse em Engenharia de Dados e Front-end e sei que necessito de uma dedicação a mais para o Back-end e analisando qual será a melhor formação para concluir a mudança de carreira. Gosto muito da área financeira.
-  </p>
+<p>
+Atualmente, resido em Florianópolis - Norte, sou casado e tenho 54 anos. Minha aparência inclui características como cabelo loiro, olhos azuis e uma barba. Profissionalmente, sou formado como Desenvolvedor Full Stack pelo LAB365 (Sesi/Senai) e estou buscando aprimorar minhas habilidades.
+Além disso, possuo um curso em Python, o qual pretendo retomar em 2024. Tenho interesse especial em Engenharia de Dados e Front-end, reconhecendo a importância de dedicar-me mais ao Back-end para uma formação mais abrangente. Estou analisando as melhores opções para concluir essa transição de carreira e, vale mencionar, tenho um apreço particular pela área financeira.
+Estou comprometido com meu desenvolvimento profissional e ansioso para explorar novas oportunidades no campo da tecnologia. 😊✨
+</p>
 </div>
 <br>
+
 
 ## 🧑🏽‍💻 Tecnologias que Estudo
 <div style="display: inline_block">
