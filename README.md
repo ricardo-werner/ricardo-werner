@@ -5,8 +5,12 @@
 ### Permita-me compartilhar um pouco sobre quem sou:
 <div style="text-align:justify">
 <p>
-Atualmente, resido em Florianópolis - Norte, sou casado e tenho 54 anos. Minha aparência inclui características como cabelo loiro, olhos azuis e uma barba. Profissionalmente, sou formado como Desenvolvedor Full Stack pelo LAB365 (Sesi/Senai) e estou buscando aprimorar minhas habilidades.
-Além disso, possuo um curso em Python, o qual pretendo retomar em 2024. Tenho interesse especial em Engenharia de Dados e Front-end, reconhecendo a importância de dedicar-me mais ao Back-end para uma formação mais abrangente. Estou analisando as melhores opções para concluir essa transição de carreira e, vale mencionar, tenho um apreço particular pela área financeira.
+Atualmente, resido em São Paulo - SP, Divorciado e tenho 54 anos. Minha aparência inclui características como cabelo loiro, olhos azuis e uma barba branca. 
+Profissionalmente tenho mais de 35 anos de mercado atuando em diversos segmentos e empresas e buscando novos conhecimentos, conclui um curso de Desenvolvedor Full Stack pelo LAB365 (Sesi/Senai-SC).
+Atualmente iniciei um novo curso de Full Stack pela Rocketseat e estou buscando aprimorar meus conjecimentos e minhas habilidades.
+Além disso, possuo um curso em Python, o qual pretendo retomar em futuro breve.
+Tenho um interesse especial em Front-end e na área de Dados, e reconheço a importância de me dedicar mais ao Back-end para obter uma formação mais completa. 
+Estou analisando cuidadosamente as melhores opções para realizar essa transição de carreira, e vale mencionar que tenho um apreço particular pela área financeira
 Estou comprometido com meu desenvolvimento profissional e ansioso para explorar novas oportunidades no campo da tecnologia. 😊✨
 </p>
 </div>
