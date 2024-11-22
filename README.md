@@ -5,7 +5,7 @@
 ### Permita-me compartilhar um pouco sobre quem sou:
 <div style="text-align:justify">
 <p>
-Atualmente, resido em São Paulo - SP, Divorciado e tenho 54 anos. Minha aparência inclui características como cabelo loiro, olhos azuis e uma barba branca. 
+Atualmente, resido em São Paulo - SP, Divorciado e tenho 55 anos. Minha aparência inclui características como cabelo loiro, olhos azuis e uma barba branca. 
 Profissionalmente tenho mais de 35 anos de mercado atuando em diversos segmentos e empresas e buscando novos conhecimentos, conclui um curso de Desenvolvedor Full Stack pelo LAB365 (Sesi/Senai-SC).
 Atualmente iniciei um novo curso de Full Stack pela Rocketseat e estou buscando aprimorar meus conhecimentos e minhas habilidades.
 Além disso, possuo um curso em Python, o qual pretendo retomar em futuro breve.
