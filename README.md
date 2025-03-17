@@ -5,12 +5,20 @@
 ### Permita-me compartilhar um pouco sobre quem sou:
 <div style="text-align:justify">
 <p>
-Atualmente, resido em São Paulo - SP, Divorciado e tenho 55 anos. Minha aparência inclui características como cabelo loiro, olhos azuis e uma barba branca. 
+Atualmente, resido em São Paulo - SP, Divorciado e tenho 55 anos. 
+</br>
+Minha aparência inclui características como cabelo loiro, olhos azuis e uma barba branca. 
+</br>
 Profissionalmente tenho mais de 35 anos de mercado atuando em diversos segmentos e empresas, buscando novos conhecimentos, conclui um curso de Desenvolvedor Full Stack pelo LAB365 (Sesi/Senai-SC).
+</br>
 Atualmente, estou me dedicando ao aprimoramento em desenvolvimento front-end, cursando o programa Full Stack na Rocketseat, com o objetivo de expandir e aprofundar minhas habilidades técnicas.
+</br>
 Além disso, possuo um curso em Python, o qual pretendo retomar em futuro breve.
-Tenho um interesse especial em Front-end e na área de Dados, e reconheço a importância de me dedicar mais ao Back-end para obter uma formação mais completa. 
-Estou analisando cuidadosamente as melhores opções para realizar essa transição de carreira, e vale mencionar que tenho um apreço particular pela área financeira
+</br>
+Tenho um interesse especial em Front-end e na área de Dados, e reconheço a importância de me dedicar mais ao Back-end para obter uma formação mais completa.
+</br>
+Estou analisando cuidadosamente as melhores opções para realizar essa transição de carreira, e vale mencionar que tenho um apreço particular pela área financeira.
+</br>
 Estou comprometido com meu desenvolvimento profissional e ansioso para explorar novas oportunidades no campo da tecnologia. 😊✨
 </p>
 </div>
