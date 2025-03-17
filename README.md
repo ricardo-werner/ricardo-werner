@@ -1,25 +1,21 @@
 ### Hi there 👋
-### Olá, meu nome é Ricardo, um jovem com experiência profissional em fase de transição de carreira! 😇 🤓 
+### Olá, sou o Ricardo – um profissional experiente em constante evolução, agora desbravando o universo da tecnologia. 😇 🤓 
 <!--
 **ricardo-werner/ricardo-werner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ### Permita-me compartilhar um pouco sobre quem sou:
 <div style="text-align:justify">
 <p>
-Atualmente, resido em São Paulo - SP, Divorciado e tenho 55 anos. 
+Sou um profissional com mais de 35 anos de experiência em diversos segmentos e empresas, sempre movido pela busca por novos conhecimentos e desafios. 
 </br>
-Minha aparência inclui características como cabelo loiro, olhos azuis e uma barba branca. 
+Nos últimos anos, me dedico à transição para a área de tecnologia, concluindo a formação como Desenvolvedor Full Stack pelo LAB365 (Sesi/Senai-SC).
 </br>
-Profissionalmente tenho mais de 35 anos de mercado atuando em diversos segmentos e empresas, buscando novos conhecimentos, conclui um curso de Desenvolvedor Full Stack pelo LAB365 (Sesi/Senai-SC).
+Atualmente, aprofundo minhas habilidades em desenvolvimento front-end por meio do programa Full Stack da Rocketseat, com o objetivo de expandir minha expertise técnica.
 </br>
-Atualmente, estou me dedicando ao aprimoramento em desenvolvimento front-end, cursando o programa Full Stack na Rocketseat, com o objetivo de expandir e aprofundar minhas habilidades técnicas.
+Tenho grande interesse em Front-end e na área de Dados, e reconheço a importância de fortalecer meus conhecimentos em Back-end para uma formação mais completa. Além disso, já iniciei meus estudos em Python e pretendo retomá-los em breve.
 </br>
-Além disso, possuo um curso em Python, o qual pretendo retomar em futuro breve.
+Estou avaliando cuidadosamente as melhores oportunidades para consolidar essa transição de carreira, com um olhar especial para o setor financeiro. 
 </br>
-Tenho um interesse especial em Front-end e na área de Dados, e reconheço a importância de me dedicar mais ao Back-end para obter uma formação mais completa.
-</br>
-Estou analisando cuidadosamente as melhores opções para realizar essa transição de carreira, e vale mencionar que tenho um apreço particular pela área financeira.
-</br>
-Estou comprometido com meu desenvolvimento profissional e ansioso para explorar novas oportunidades no campo da tecnologia. 😊✨
+Motivado pelo aprendizado contínuo e pela inovação, estou em busca de desafios que me permitam aplicar e aprimorar minhas habilidades na área de tecnologia 😊✨
 </p>
 </div>
 <br>
