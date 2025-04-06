@@ -68,10 +68,14 @@ Confira alguns dos meus projetos no GitHub que demonstram minha paixão e evolu�
 
 ---
 
+## Troféus & Contribuições
+
 <!-- Se você instalar e configurar o GitHub Profile Trophy, esta seção exibirá seus troféus -->
-<!-- <div align="center">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ricardo-werner&theme=onedark"/>
-</div> -->
+</div>
+
+---
 
 ## Vamos Conversar?
 
