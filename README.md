@@ -5,7 +5,9 @@
 Sou um **Desenvolvedor Front-End** formado em Desenvolvimento Full-Stack pelo SENAI-SC (LAB365) e atualmente aprimorando minhas habilidades em React.js e TypeScript pela Rocketseat. Com uma carreira de mais de 35 anos em diversos segmentos, estou em processo de transição para a área de tecnologia, focando em criar interfaces responsivas, acessíveis e otimizadas para SEO.
 
 - **Experiência & Formação:**  
-  Mais de 35 anos de experiência em diversos segmentos, aliado a uma formação robusta em desenvolvimento full-stack.
+  Após mais de 35 anos atuando em diferentes setores do mercado, estou embarcando em uma nova jornada profissional: o desenvolvimento front-end. 
+  Com uma base em desenvolvimento full-stack, sigo aprendendo e evoluindo constantemente nessa transição para o universo da tecnologia.
+
 
 - **Objetivo Profissional:**  
   Desenvolver projetos inovadores e escaláveis utilizando React.js, JavaScript (ES6+), HTML5, CSS3, e explorar novas tecnologias como TypeScript, Node.js, e ferramentas de testes automatizados.
