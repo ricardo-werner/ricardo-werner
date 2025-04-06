@@ -61,8 +61,8 @@ Confira alguns dos meus projetos no GitHub que demonstram minha paixão e evolu�
 ## Estatísticas do GitHub
 
 <div align="center">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=ricardo-werner&show_icons=true&theme=moltack&include_all_commits=true&count_private=true" />
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=ricardo-werner&show_icons=true&theme=radical" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=ricardo-werner&show_icons=true&theme=moltack&include_all_commits=true&count_private=true" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=ricardo-werner&show_icons=true&theme=radical" />
 </div>
 
 ---
@@ -74,9 +74,6 @@ Confira alguns dos meus projetos no GitHub que demonstram minha paixão e evolu�
 
 <!-- Calendário de Contribuições: Mostra sua atividade contínua no GitHub -->
 <div align="center">
-
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ricardo-werner&radius=16&theme=redical&area=true&order=5&hide_title=false&hide_border=true" height="200" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardo-werner&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
