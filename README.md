@@ -1,16 +1,15 @@
-# Olá, sou o Ricardo - um profissional experiente em constante evolução, agora desbravando o universo da tecnologia 👋
+# Olá, sou o Ricardo – um profissional em constante evolução, agora desbravando o universo da tecnologia 👋
 
 ## Sobre Mim
 
-Sou um **Desenvolvedor Front-End** formado em Desenvolvimento Full-Stack pelo SENAI-SC (LAB365) e atualmente aprimorando minhas habilidades em React.js e TypeScript pela Rocketseat. Com uma carreira de mais de 35 anos em diversos segmentos, estou em processo de transição para a área de tecnologia, focando em criar interfaces responsivas, acessíveis e otimizadas para SEO.
+Sou **Desenvolvedor Front-End**, com formação em Desenvolvimento Full-Stack pelo SENAI-SC (LAB365) e atualmente em constante evolução técnica através da Rocketseat, aprofundando meus conhecimentos em React.js e TypeScript.
 
-- **Experiência & Formação:**  
-  Após mais de 35 anos atuando em diferentes setores do mercado, estou embarcando em uma nova jornada profissional: o desenvolvimento front-end. 
-  Com uma base em desenvolvimento full-stack, sigo aprendendo e evoluindo constantemente nessa transição para o universo da tecnologia.
+Com uma trajetória profissional de mais de 35 anos em diferentes setores do mercado, iniciei uma transição de carreira focada no desenvolvimento de interfaces modernas, acessíveis (A11Y), responsivas e otimizadas para SEO.
 
+Sigo estudando diariamente para construir soluções inovadoras e me consolidar como desenvolvedor, combinando minha bagagem profissional com as melhores práticas da tecnologia.
 
 - **Objetivo Profissional:**  
-  Desenvolver projetos inovadores e escaláveis utilizando React.js, JavaScript (ES6+), HTML5, CSS3, e explorar novas tecnologias como TypeScript, Node.js, e ferramentas de testes automatizados.
+  Desenvolver projetos inovadores e escaláveis utilizando React.js, JavaScript (ES6+), HTML5, CSS3, e explorar novas tecnologias como TypeScript, Node.js e ferramentas de testes automatizados.
 
 ---
 
@@ -27,16 +26,6 @@ Sou um **Desenvolvedor Front-End** formado em Desenvolvimento Full-Stack pelo SE
 
 ---
 
-<!-- ## Projetos e Contribuições
-
-Confira alguns dos meus projetos no GitHub que demonstram minha paixão e evolução na tecnologia:
-- [Projeto 1](#) – Breve descrição do projeto.
-- [Projeto 2](#) – Breve descrição do projeto.
-
-*Estou sempre aberto a novas oportunidades de colaboração e aprendizado.*
-
---- -->
-
 ## Tecnologias que Estudo
 
 <div style="display: inline-block">
@@ -47,6 +36,13 @@ Confira alguns dos meus projetos no GitHub que demonstram minha paixão e evolu�
   <img align="center" alt="Node.js" height="40" width="40" src="https://icon-library.com/images/node-js-icon/node-js-icon-11.jpg">
   <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 </div>
+
+---
+
+## 🧪 Projetos em Destaque
+
+🚧 *Em construção* – em breve aqui você poderá conferir os projetos que vêm marcando minha trajetória como desenvolvedor.  
+Enquanto isso, fique à vontade para explorar meus repositórios públicos e ver meu progresso em tempo real.
 
 ---
 
@@ -71,9 +67,8 @@ Confira alguns dos meus projetos no GitHub que demonstram minha paixão e evolu�
 
 ## Troféus & Contribuições
 
-<!-- Se você instalar e configurar o GitHub Profile Trophy, esta seção exibirá seus troféus -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ricardo-werner&theme=onedark"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ricardo-werner&theme=onedark" />
 </div>
 
 ---
