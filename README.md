@@ -62,7 +62,6 @@ Confira alguns dos meus projetos no GitHub que demonstram minha paix√£o e evolu√
 
 <div align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=ricardo-werner&show_icons=true&theme=moltack&include_all_commits=true&count_private=true" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ricardo-werner&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardo-werner&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
