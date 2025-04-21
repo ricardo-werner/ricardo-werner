@@ -99,7 +99,10 @@ Enquanto isso, fique à vontade para explorar meus repositórios públicos e ver
 
 <div align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=ricardo-werner&show_icons=true&theme=moltack&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardo-werner&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardo-werner&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2" />
+  <br />
+  <br />
+  <img height="45" src="https://komarev.com/ghpvc/?username=ricardo-werner&color=blue" alt="Contador de Visitantes" />
 </div>
 
 ---
