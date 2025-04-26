@@ -64,6 +64,7 @@ Sigo estudando diariamente para construir soluções inovadoras e me consolidar 
   <img align="center" alt="React.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg">
   <img align="center" alt="Node.js" height="40" width="40" src="https://icon-library.com/images/node-js-icon/node-js-icon-11.jpg">
   <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="TailwindCSS "height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 </div>
 
 ---
@@ -71,9 +72,9 @@ Sigo estudando diariamente para construir soluções inovadoras e me consolidar 
 ## 🧰 Ferramentas que Estudo
 
 <div style="display: inline-block">
-  <img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
-<br>
-<br>
+    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+  <br>
+  <br>
 </div>
 
 ---
