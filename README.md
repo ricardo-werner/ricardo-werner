@@ -4,7 +4,7 @@
 
 Sou **Desenvolvedor Front-End**, com formação em Desenvolvimento Full-Stack pelo SENAI-SC (LAB365) e atualmente em constante evolução técnica através da Rocketseat, aprofundando meus conhecimentos em React.js e TypeScript.
 
-Com uma trajetória profissional de mais de 35 anos em diferentes setores do mercado, iniciei uma transição de carreira focada no desenvolvimento de interfaces modernas, acessíveis (A11Y), responsivas e otimizadas para SEO.
+Com uma trajetória profissional de mais de 30 anos em diferentes setores do mercado, iniciei uma transição de carreira focada no desenvolvimento de interfaces modernas, acessíveis (A11Y), responsivas e otimizadas para SEO.
 
 Sigo estudando diariamente para construir soluções inovadoras e me consolidar como desenvolvedor, combinando minha bagagem profissional com as melhores práticas da tecnologia.
 
