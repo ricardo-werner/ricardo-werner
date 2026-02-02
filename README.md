@@ -1,28 +1,24 @@
-# Olá, sou o Ricardo – um profissional em constante evolução, agora desbravando o universo da tecnologia 👋
+# Olá, sou o Ricardo – Desenvolvedor Front-End | Product Owner Mindset 👋
 
 ## 🙋‍♂️ Sobre Mim
 
-Sou **Desenvolvedor Front-End**, com formação em Desenvolvimento Full-Stack pelo SENAI-SC (LAB365) e atualmente em constante evolução técnica através da Rocketseat, aprofundando meus conhecimentos em React.js e TypeScript.
+Sou **Desenvolvedor Front-End** com visão sistêmica, unindo a formação Full-Stack (SENAI-SC e Rocketseat) à maturidade profissional.
 
-Com uma trajetória profissional de mais de 30 anos em diferentes setores do mercado, iniciei uma transição de carreira focada no desenvolvimento de interfaces modernas, acessíveis (A11Y), responsivas e otimizadas para SEO.
+Minha trajetória une **30 anos de experiência em gestão de negócios** à atualização técnica de um profissional em transição. Hoje, meu foco não é apenas escrever código, mas desenvolver interfaces modernas, **acessíveis (A11Y/WCAG)** e que resolvam problemas reais.
 
-Sigo estudando diariamente para construir soluções inovadoras e me consolidar como desenvolvedor, combinando minha bagagem profissional com as melhores práticas da tecnologia.
+Sigo codando diariamente para construir soluções inovadoras, utilizando minha bagagem executiva para atuar como uma "ponte" entre a necessidade do negócio e a entrega técnica.
 
-- **Objetivo Profissional:**  
-  Desenvolver projetos inovadores e escaláveis utilizando React.js, JavaScript (ES6+), HTML5, CSS3, e explorar novas tecnologias como TypeScript, Node.js e ferramentas de testes automatizados.
+- **Objetivo Profissional:** Desenvolver projetos escaláveis e inclusivos utilizando React.js, TypeScript e o ecossistema JavaScript, garantindo qualidade de código e impacto no usuário final.
 
 ---
 
 ## Hard Skills
 
-- **Linguagens e Tecnologias:**  
-  HTML5, CSS3, JavaScript, React.js, Node.js, TypeScript (iniciante), Tailwind CSS (iniciante).
+- **Linguagens e Tecnologias:** HTML5 Semântico, CSS3, JavaScript (ES6+), React.js, Node.js, TypeScript, Tailwind CSS e SASS.
 
-- **Ferramentas e Metodologias:**  
-  Git, GitHub, Scrum, Kanban, Figma (iniciante).
+- **Ferramentas e Metodologias:** Git, GitHub, Scrum, Kanban, Figma (Hand-off dev).
 
-- **Testes Automatizados:**  
-  Conhecimento introdutório em Jest, Cypress e React Testing Library.
+- **Qualidade & Testes:** Acessibilidade Web (WCAG), Jest, Cypress e React Testing Library.
 
 ---
 
@@ -55,7 +51,7 @@ Sigo estudando diariamente para construir soluções inovadoras e me consolidar 
 
 ---
 
-## ♻️ Tecnologias que Estudo
+## ♻️ Stack Principal
 
 <div style="display: inline-block">
   <img align="center" alt="Logotipo do HTML5" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg">
@@ -69,20 +65,11 @@ Sigo estudando diariamente para construir soluções inovadoras e me consolidar 
 
 ---
 
-## 🧰 Ferramentas que Estudo
+## 📂 Projetos
 
-<div style="display: inline-block">
-    <img align="center" alt="Logotipo do Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
-  <br>
-  <br>
-</div>
+Aqui no meu perfil você encontra projetos práticos que demonstram minha evolução técnica, incluindo o consumo de APIs, Design Patterns e foco em Acessibilidade.
 
----
-
-## 📂	 Projetos em Destaque
-
-🚧 *Em construção* – em breve aqui você poderá conferir os projetos que vêm marcando minha trajetória como desenvolvedor.  
-Enquanto isso, fique à vontade para explorar meus repositórios públicos e ver meu progresso em tempo real.
+📌 **Confira os repositórios fixados logo abaixo para ver meu código em ação!**
 
 ---
 
@@ -94,23 +81,43 @@ Enquanto isso, fique à vontade para explorar meus repositórios públicos e ver
 
 ## Estatísticas do GitHub
 
+
+
 <div align="center">
+
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=ricardo-werner&show_icons=true&theme=moltack&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Ricardo Werner" />
+
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardo-werner&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2" alt="Linguagens mais usadas por Ricardo Werner no GitHub" />
+
   <br />
+
   <br />
+
   <img height="45" src="https://komarev.com/ghpvc/?username=ricardo-werner&color=blue" alt="Contador de Visitantes" />
+
 </div>
 
+
+
 ---
+
+
 
 ## Troféus & Contribuições
 
+
+
 <div align="center">
+
   <img src="https://github-profile-trophy.vercel.app/?username=ricardo-werner&theme=onedark" alt="Troféus do perfil do GitHub de Ricardo Werner" />
+
 </div>
 
+
+
 ---
+
+
 
 ## Vamos Conversar?
 
