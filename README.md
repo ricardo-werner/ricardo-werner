@@ -1,22 +1,22 @@
-# Olá, sou o Ricardo – Desenvolvedor Front-End | Product Owner Mindset 👋
+# Olá, sou o Ricardo – Desenvolvedor Front-End | Product Owner 👋
 
 ## 🙋‍♂️ Sobre Mim
 
-Sou **Desenvolvedor Front-End** com visão sistêmica, unindo formação **Full-Stack** (SENAI-SC e Rocketseat) a uma trajetória sólida em **gestão de negócios**.
+Sou **Desenvolvedor Front-End** com visão sistêmica, unindo formação **Full-Stack** (SENAI-SC e Rocketseat) a uma trajetória sólida em **negócios e gestão**.
 
 Trago mais de **30 anos de experiência profissional**, hoje aplicados ao desenvolvimento de interfaces modernas, **acessíveis (A11Y / WCAG)** e orientadas à resolução de problemas reais.
 
 Meu diferencial está na capacidade de atuar como **ponte entre negócio, produto e tecnologia**, traduzindo necessidades complexas em soluções claras, escaláveis e sustentáveis.
 
-- **Objetivo Profissional:** Atuar no desenvolvimento de soluções Front-End com **React.js, TypeScript e ecossistema JavaScript**, contribuindo com qualidade técnica, visão de produto e impacto no usuário final.
+- **Objetivo Profissional:** Atuar no desenvolvimento de soluções Front-End no **ecossistema JavaScript com React.js e TypeScript**, contribuindo com qualidade técnica, visão de produto e impacto no usuário final.
 
 ---
 
 ## 🧠 Hard Skills
 
-- **Linguagens & Tecnologias:** React.js, TypeScript, JavaScript (ES6+), HTML5 Semântico, CSS3, Node.js
+- **Linguagens & Tecnologias:**JavaScript (ES6+), React.js, TypeScript, HTML5 Semântico, CSS3, Node.js
 - **Estilização:** Tailwind CSS, SASS, CSS Modular
-- **Ferramentas & Metodologias:** Git, GitHub, Scrum, Kanban, Figma (Hand-off Dev)
+- **Ferramentas & Metodologias:** Git, GitHub, Scrum, Kamban, Figma (Hand-off Dev)
 - **Qualidade & Boas Práticas:** Acessibilidade Web (WCAG), Jest
 
 ---
