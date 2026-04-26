@@ -53,8 +53,17 @@ Atuo conectando necessidades de **negócio, produto e tecnologia**, aplicando vi
 
 ## ♻️ Stack Principal
 
-
-
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="40" height="40"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="40" height="40"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node" width="40" height="40"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TS" width="40" height="40"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind" width="60" height="40"></td>
+  </tr>
+</table>
 
 
 ---
