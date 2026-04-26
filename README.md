@@ -14,7 +14,7 @@ Atuo conectando necessidades de **negócio, produto e tecnologia**, aplicando vi
 
 ## 🧠 Hard Skills
 
-- **Front-End:**JavaScript (ES6+), React.js, TypeScript, HTML5 Semântico, CSS3
+- **Front-End:** JavaScript (ES6+), React.js, TypeScript, HTML5 Semântico, CSS3
 - **Estilização:** Tailwind CSS, SASS, CSS Modular
 - **Back-End:** Node.js
 - **Qualidade:** Acessibilidade Web (WCAG/A11Y), testes com Jest
