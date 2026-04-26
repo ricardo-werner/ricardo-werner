@@ -1,23 +1,24 @@
-# Olá, sou o Ricardo – Desenvolvedor Front-End | Product Owner 👋
+# Olá, sou o Ricardo – Desenvolvedor Front-End Inclusivo 👋
 
 ## 🙋‍♂️ Sobre Mim
 
-Sou **Desenvolvedor Front-End** com visão sistêmica, unindo formação **Full-Stack** (SENAI-SC e Rocketseat) a uma trajetória sólida em **negócios e gestão**.
+**Desenvolvedor Front-End** em transição de carreira, com mais de 30 anos de experiência em negócios e gestão. Combino formação Full Stack (SENAI-SC e Rocketseat) com atuação no desenvolvimento de interfaces web utilizando React.js, JavaScript (ES6+) e TypeScript.
 
-Trago mais de **30 anos de experiência profissional**, hoje aplicados ao desenvolvimento de interfaces modernas, **acessíveis (A11Y / WCAG)** e orientadas à resolução de problemas reais.
+Direciono meus estudos e projetos para **acessibilidade digital (WCAG/A11Y)**, desenvolvendo interfaces inclusivas e funcionais. Minha abordagem prioriza código limpo, HTML5 semântico, responsividade e boas práticas de desenvolvimento, com uso de **Inteligência Artificial (IA)** como apoio à produtividade.
 
-Meu diferencial está na capacidade de atuar como **ponte entre negócio, produto e tecnologia**, traduzindo necessidades complexas em soluções claras, escaláveis e sustentáveis.
+Atuo conectando necessidades de **negócio, produto e tecnologia**, aplicando visão de **Product Owner** e experiência em gestão de operações para construir soluções claras, escaláveis e alinhadas ao usuário final.
 
-- **Objetivo Profissional:** Atuar no desenvolvimento de soluções Front-End no **ecossistema JavaScript com React.js e TypeScript**, contribuindo com qualidade técnica, visão de produto e impacto no usuário final.
+- **Objetivo:** Atuar no desenvolvimento Front-End com foco em **JavaScript com React.js e TypeScript**, contribuindo com qualidade técnica, visão de produto e geração de valor.
 
 ---
 
 ## 🧠 Hard Skills
 
-- **Linguagens & Tecnologias:**JavaScript (ES6+), React.js, TypeScript, HTML5 Semântico, CSS3, Node.js
+- **Front-End:**JavaScript (ES6+), React.js, TypeScript, HTML5 Semântico, CSS3
 - **Estilização:** Tailwind CSS, SASS, CSS Modular
-- **Ferramentas & Metodologias:** Git, GitHub, Scrum, Kamban, Figma (Hand-off Dev)
-- **Qualidade & Boas Práticas:** Acessibilidade Web (WCAG), Jest
+- **Back-End:** Node.js
+- **Qualidade:** Acessibilidade Web (WCAG/A11Y), testes com Jest
+- **Ferramentas & Metodologias:** Git, GitHub, Scrum, Kamban, Figma (handoff para desenvolvimento)
 
 ---
 
