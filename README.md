@@ -22,21 +22,18 @@ Minha trajetória anterior em operações, suporte técnico e ambientes de alta 
 
 ## 🧠 Hard Skills
 
-- **Front-End:** JavaScript (ES6+), React.js, TypeScript, HTML5 Semântico, CSS3
-- **Estilização:** Tailwind CSS, SASS, CSS Modular
-- **Back-End:** Node.js
 - **Qualidade:** Acessibilidade Web (WCAG/A11Y), testes com Jest
-- **Ferramentas & Metodologias:** Git, GitHub, Scrum, Kamban, Figma (handoff para desenvolvimento)
+- **Ferramentas & Metodologias:** Scrum, Kamban, Figma (handoff para desenvolvimento)
 
 ---
 
 ### 💻 Front-End
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
@@ -63,13 +60,13 @@ Minha trajetória anterior em operações, suporte técnico e ambientes de alta 
 
 <table>
   <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TS" width="40" height="40"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind" width="60" height="40"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="40" height="40"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="40" height="40"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node" width="40" height="40"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TS" width="40" height="40"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind" width="60" height="40"></td>
   </tr>
 </table>
 
