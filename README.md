@@ -22,11 +22,6 @@ Minha trajetória anterior em operações, suporte técnico e ambientes de alta 
 
 ## 🧠 Hard Skills
 
-- **Qualidade:** Acessibilidade Web (WCAG/A11Y), testes com Jest
-- **Ferramentas & Metodologias:** Scrum, Kamban, Figma (handoff para desenvolvimento)
-
----
-
 ### 💻 Front-End
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -53,6 +48,20 @@ Minha trajetória anterior em operações, suporte técnico e ambientes de alta 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### ✅ Qualidade
+
+![Accessibility](https://img.shields.io/badge/Accessibility-%230170EA.svg?style=for-the-badge&logo=Accessibility&logoColor=white) ![WCAG](https://img.shields.io/badge/WCAG-%23015A69.svg?style=for-the-badge&logo=WCAG&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+---
+
+### 🔁 Metodologias
+
+ * Scrum
+ * Kamban
 
 ---
 
