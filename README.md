@@ -1,15 +1,23 @@
-# Olá, sou o Ricardo – Desenvolvedor Front-End Inclusivo 👋
+# Olá, sou o Ricardo – Desenvolvedor Front-End 👋
 
 ## 🙋‍♂️ Sobre Mim
 
-**Desenvolvedor Front-End** em transição de carreira, com mais de 30 anos de experiência em negócios e gestão. Combino formação Full Stack (SENAI-SC e Rocketseat) com atuação no desenvolvimento de interfaces web utilizando React.js, JavaScript (ES6+) e TypeScript.
+**Desenvolvedor Front-End** com foco em acessibilidade digital (WCAG/A11Y), interfaces responsivas e experiência do usuário.
 
-Direciono meus estudos e projetos para **acessibilidade digital (WCAG/A11Y)**, desenvolvendo interfaces inclusivas e funcionais. Minha abordagem prioriza código limpo, HTML5 semântico, responsividade e boas práticas de desenvolvimento, com uso de **Inteligência Artificial (IA)** como apoio à produtividade.
+Atualmente desenvolvo projetos utilizando React.js, JavaScript e TypeScript, direcionando meus estudos para construção de aplicações mais acessíveis, funcionais e alinhadas às boas práticas de desenvolvimento Front-End.
 
-Atuo conectando necessidades de **negócio, produto e tecnologia**, aplicando visão de **Product Owner** e experiência em gestão de operações para construir soluções claras, escaláveis e alinhadas ao usuário final.
+Tenho interesse especial em:
+*	Acessibilidade digital (WCAG/A11Y)
+*	HTML semântico
+*	Experiência do usuário
+*	Interfaces responsivas
+*	React.js e TypeScript
+*	Boas práticas de Front-End
+*	IA aplicada à produtividade e aprendizado
 
-- **Objetivo:** Atuar no desenvolvimento Front-End com foco em **JavaScript com React.js e TypeScript**, contribuindo com qualidade técnica, visão de produto e geração de valor.
+Minha trajetória anterior em operações, suporte técnico e ambientes de alta complexidade contribuiu para desenvolver uma visão prática de resolução de problemas, colaboração entre áreas e construção de soluções orientadas ao usuário.
 
+- **Objetivo:** Consolidar minha atuação como Desenvolvedor Front-End, contribuindo para projetos que valorizem acessibilidade, experiência do usuário e desenvolvimento de interfaces modernas e inclusivas.
 ---
 
 ## 🧠 Hard Skills
